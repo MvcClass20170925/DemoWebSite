@@ -77,6 +77,7 @@
   <ItemGroup>
     <Content Include="ContactUs.html" />
     <Content Include="content\melissa-kerr.jpg" />
+    <Content Include="images\Contoso.png" />
     <Content Include="styles\ContactUsStyles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
